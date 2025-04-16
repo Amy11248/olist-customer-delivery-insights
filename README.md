@@ -107,3 +107,5 @@ Aspiring data analyst with a background in procurement, international business d
 
 - 🌐 [LinkedIn]https://www.linkedin.com/in/zhou-huimin-548245134/
 - 💻 [GitHub]https://github.com/Amy11248
+
+⭐ If you found this project helpful or inspiring, feel free to give it a star!
