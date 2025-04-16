@@ -1,5 +1,12 @@
 # Olist E-commerce Customer & Delivery Insights
 
+<img src="screenshots/p1.png" alt="Dashboard Overview Page 1" width="800"/>
+
+This project explores customer value, delivery performance, and satisfaction trends using real-world e-commerce data from Olist. It combines SQL-based data modeling and Power BI visualization to deliver actionable insights for business strategy.
+
+
+# Olist E-commerce Customer & Delivery Insights
+
 This project explores customer value, delivery performance, and satisfaction trends using real-world e-commerce data from Olist. It combines SQL-based data modeling and Power BI visualization to deliver actionable insights for business strategy.
 
 ---
