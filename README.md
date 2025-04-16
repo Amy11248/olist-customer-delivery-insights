@@ -1,6 +1,15 @@
 # Olist E-commerce Customer & Delivery Insights
 
-<img src="screenshots/p1.png" alt="Dashboard Overview Page 1" width="800"/>
+<p align="center">
+  <img src="screenshots/cover.jpg" width="90%" alt="Olist E-commerce Project Cover"/>
+</p>
+
+<h2 align="center">📦 Olist E-commerce Customer Value & Delivery Insights</h2>
+
+<p align="center">
+  A data analysis project using SQL & Power BI on Brazil's top e-commerce marketplace.
+</p>
+
 
 This project explores customer value, delivery performance, and satisfaction trends using real-world e-commerce data from Olist. It combines SQL-based data modeling and Power BI visualization to deliver actionable insights for business strategy.
 
