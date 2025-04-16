@@ -22,6 +22,21 @@ The Power BI dashboard is structured into **four interactive pages**, each targe
 | 4 | Delivery Insights by Customer Segment | Examine how delivery affects satisfaction across value tiers |
 
 ---
+## 📸 Dashboard Preview
+
+Here’s a quick look at the Power BI dashboards used in this project:
+
+### 🧭 Page 1: Monthly Sales Trend
+![Page 1](screenshots/p1.png)
+
+### 🧮 Page 2: Customer Value Segmentation
+![Page 2](screenshots/p2.png)
+
+### 🚚 Page 3: Regional Delivery Performance
+![Page 3](screenshots/p3.png)
+
+### 🧠 Page 4: Delivery Experience by Customer Tier
+![Page 4](screenshots/p4.png)
 
 ## 🗂 Project Structure
 ```
