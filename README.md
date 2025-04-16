@@ -42,10 +42,10 @@ olist-customer-delivery-insights/
 ## 📄 Insight Summaries
 Each dashboard page is paired with a written insight summary:
 
-- [`Page 1`](./insights/monthly_sales_insights.md): Sales cycles and seasonal variation
-- [`Page 2`](./insights/customer_tier_insights.md): Tier contribution and value structure
-- [`Page 3`](./insights/regional_delivery_insights.md): Regional delivery gap detection
-- [`Page 4`](./insights/delivery_segment_insights.md): Service experience of high-value customers
+- [`p1`](./insights/monthly_sales_insights.md): Sales cycles and seasonal variation
+- [`p2`](./insights/customer_tier_insights.md): Tier contribution and value structure
+- [`p3`](./insights/regional_delivery_insights.md): Regional delivery gap detection
+- [`p4`](./insights/delivery_segment_insights.md): Service experience of high-value customers
 
 ---
 
