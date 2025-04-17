@@ -81,12 +81,14 @@ Each dashboard page is paired with a written insight summary:
 ---
 
 ## 💡 Key Takeaways
+This project reinforced my understanding that **data analysis is an iterative process**. Data cleaning, validation, and logic refinement don't just happen once at the beginning — they are woven throughout every stage of analysis, from query design to visualization and storytelling. Unexpected outliers and errors became opportunities to ask deeper questions and improve data integrity.
 - A small group（6.7%) of **high-value customers** generates nearly **80% of revenue**, but faces longer delivery and lower satisfaction.
 - Delivery performance varies widely across Brazilian states, revealing strategic opportunities for logistics improvement.
 - Monthly revenue trends suggest **seasonal fluctuation** and highlight months for potential campaign optimization.
 
 ---
 ## 🔥 Community Recognition
+![Community Recognition](screenshots/feedback.png)
 💬 This project was recognized and positively commented on by the **Microsoft Power Platform team** on LinkedIn:
 
 > *“Very nicely done, Zhou! What were some of your key takeaways from this project?”*  
