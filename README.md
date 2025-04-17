@@ -86,7 +86,21 @@ Each dashboard page is paired with a written insight summary:
 - Monthly revenue trends suggest **seasonal fluctuation** and highlight months for potential campaign optimization.
 
 ---
+## 🔥 Community Recognition
+💬 This project was recognized and positively commented on by the **Microsoft Power Platform team** on LinkedIn:
 
+> *“Very nicely done, Zhou! What were some of your key takeaways from this project?”*  
+> *“It’s great to see how you’ve embraced the iterative nature of data analysis and uncovered valuable insights from outliers! Your ability to integrate is impressive!”*
+
+🏆 Their encouragement highlighted:
+- The value of iteration in data analysis
+- The importance of exploring insights behind outliers
+- My integration of SQL + Power BI + storytelling
+- Suggestions to explore **Power Automate** and **Advanced DAX** for next-level growth
+
+➡️ This feedback means a lot and motivates me to keep learning and sharing.
+
+---
 ## ⚙️ Tech Stack
 - **Google BigQuery / Standard SQL** – Aggregation, filtering, time-based analysis
 - **Power BI** – Data modeling, visuals, KPI tracking
